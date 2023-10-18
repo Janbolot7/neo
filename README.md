@@ -16,4 +16,4 @@ My name is Janbolot - 18/10/2023
 
 ### Solved tasks from 1 week 
 
-[week 1] (https://github.com/Janbolot7/neo/tree/Janbolot/neobis/src/main/java/Janbolot/neobis/week1)
+[week 1](https://github.com/Janbolot7/neo/tree/Janbolot/neobis/src/main/java/Janbolot/neobis/week1)
