@@ -8,8 +8,7 @@ My name is Janbolot - 18/10/2023
 
 ![Java][logo]
 
-[logo]:[[https://s0.rbk.ru/v6_top_pics/resized/960xH/media/img/1/60/756533742439601.jpg](https://it-cube48.ru/wp-content/uploads/2019/06/java-logo.jpg)](https://professii-online.ru/wp-content/uploads/raznitsa-mezhdu-java-i-javascript-667x400.jpg)
-
+[logo]:https://techrocks.ru/wp-content/uploads/2019/04/For_post_15.png
 
 
 ---
@@ -20,8 +19,7 @@ My name is Janbolot - 18/10/2023
 
 ---
 
-***
-java
+*** java
 public class Greeting() {
     public static void main(String[] args) {
         System.out.println("Hi, welcome to my repository!");
