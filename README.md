@@ -25,3 +25,6 @@ public class Greeting() {
         System.out.println("Hi, welcome to my repository!");
     }
 }
+
+
+here was Azamat
