@@ -12,5 +12,5 @@ CREATE TABLE orders (
 
 CREATE TABLE customer (
                        customer_id INTEGER PRIMARY KEY,
-                       customer_name VARCHAR(50),
+                       customer_name VARCHAR(50)
 );
