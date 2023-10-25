@@ -27,7 +27,7 @@ public class Orders {
 
     public void setProduct(List<Product> products) {
         this.product = products;
-        totalAmount = product.stream().mapToInt(Product::getPrice).sum();
+        totalAmount = product.stream().mapToInt(Product::getProductPrice).sum();
     }
 
     public int getTotalAmount() {

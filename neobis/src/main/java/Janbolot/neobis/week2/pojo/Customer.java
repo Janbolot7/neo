@@ -3,11 +3,11 @@ package Janbolot.neobis.week2.pojo;
 public class Customer {
     private int customerId;
 
-    private String name;
+    private String customerName;
 
-    public Customer(int customerId, String name){
+    public Customer(){
         this.customerId = customerId;
-        this.name = name;
+        this.customerName = customerName;
     }
 
     public int getCustomerId() {
@@ -18,11 +18,11 @@ public class Customer {
         this.customerId = customerId;
     }
 
-    public String getName() {
-        return name;
+    public String getCustomerName() {
+        return customerName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setCustomerName(String customerName) {
+        this.customerName = customerName;
     }
 }
