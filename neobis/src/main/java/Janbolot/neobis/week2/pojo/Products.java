@@ -1,25 +1,25 @@
 package Janbolot.neobis.week2.pojo;
 
-public class Product {
-    private int productId;
+public class Products {
+    private Long productId;
     private String productName;
-    private int productPrice;
+    private double productPrice;
 
-    public Product() {
+    public Products() {
 
     }
 
-    public Product(int productId, String productName, int productPrice) {
+    public Products(Long productId, String productName, int productPrice) {
         this.productId = productId;
         this.productName = productName;
         this.productPrice = productPrice;
     }
 
-    public int getProductId() {
+    public Long getProductId() {
         return productId;
     }
 
-    public void setProductId(int productId) {
+    public void setProductId(Long productId) {
         this.productId = productId;
     }
 
@@ -31,11 +31,11 @@ public class Product {
         this.productName = productName;
     }
 
-    public int getProductPrice() {
+    public double getProductPrice() {
         return productPrice;
     }
 
-    public void setProductPrice(int productPrice) {
+    public void setProductPrice(double productPrice) {
         this.productPrice = productPrice;
     }
 }
